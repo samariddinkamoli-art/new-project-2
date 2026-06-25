@@ -58,9 +58,8 @@ body
 .podhead
 {
     width: 90%;
-    height: 845px;
+    height: 945px;
     margin: auto;
-    background-color: greenyellow;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -115,4 +114,52 @@ body
 {
     position: relative;
     top: 100px;
+}
+.section3
+{
+    width: 90%;
+    height: 736px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.section3 img
+{
+    max-width: 400px;
+    max-height: 600px;
+}
+.sec3text
+{
+    width: 550px;
+    height: 366px;
+}
+.cozy
+{
+    width: 600px;
+    height: 108px;
+}
+.cozy p
+{
+    font-weight: 600;
+    font-size: 36px;
+}
+.our p
+{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: #848FAC;
+}
+.sec3text button
+{
+    width: 156px;
+    height: 51px;
+    border: none;
+    border: 1px solid #0E1734;
+    border-radius: 4px;
+    background-color: #0E1734;
+    color: white;
+    margin-top: 20px;
 }
