@@ -236,3 +236,81 @@ body
     letter-spacing: 0%;
     color: #848FAC;
 }
+.section5
+{
+    width: 90%;
+    height: 1176px;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.many
+{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 150%;
+    letter-spacing: -1%;
+}
+.tex
+{
+    width: 500px;
+    height: 54px;
+    text-align: center;
+    padding-top: 20px;
+}
+.section5 button
+{
+    width: 156px;
+    height: 51px;
+    border: none;
+    border: 1px solid #0E1734;
+    border-radius: 4px;
+    background-color: #0E1734;
+    color: white;
+    margin-top: 20px;
+}
+.sec5cards
+{
+    margin-top: 70px;
+    display: flex;
+    gap: 20px;
+}
+.s5card1
+{
+    margin-top: 20px;
+    width: 384px;
+    height: 750px;
+}
+.tex5
+{
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: #000000;
+}
+.s5card1p
+{
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: #848FAC;
+}
+.s5card1 button
+{
+    width: 130px;
+    height: 27px;
+    color: #424F7B;
+    background-color: white;
+    border: none;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 10px;
+    color: #424F7B;
+}
