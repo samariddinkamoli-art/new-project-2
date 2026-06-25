@@ -27,6 +27,7 @@ body
     font-weight: 600;
     font-size: 32px;
     color: #192252;
+    margin-left: 20px;
 }
 .headmain
 {
@@ -52,4 +53,66 @@ body
     font-weight: 500;
     font-size: 16px;
     color: white;
+    margin-right: 20px;
+}
+.podhead
+{
+    width: 90%;
+    height: 845px;
+    margin: auto;
+    background-color: greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.podhead1
+{
+    width: 480px;
+    height: 335px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    left: 200px;
+}
+.p1
+{
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 150%;
+    letter-spacing: -1%;
+    color: #192252;
+}
+.p2
+{
+    color: #848FAC;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0%;
+}
+.podhead1 button
+{
+    width: 156px;
+    height: 51px;
+    border: none;
+    border: 1px solid #0E1734;
+    border-radius: 4px;
+    background-color: #0E1734;
+    color: white;
+    margin-left: -330px;
+    margin-top: 20px;
+}
+.podhead2
+{
+    position: absolute;
+    left: 750px;
+}
+.un2
+{
+    position: relative;
+    top: 100px;
 }
